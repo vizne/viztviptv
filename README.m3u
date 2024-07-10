@@ -1,9 +1,8 @@
 #EXTINF:-1 group-title="[🔴]|[HTV]" tvg-logo="[https://vi.m.wikipedia.org/wiki/T%E1%BA%ADp_tin:HTV1.png]",*HTV1* 
 *https://vc.101vn.com/htv/htvcmb.php?id=2631*
 
-
 #EXTINF:-1 group-title="[🔴|HTV]" tvg-logo="[https://logos-world.net/htv7-logo/]",*HTV7* 
 *https://vc.101vn.com/htv/htvcmb.php?id=256*
 
-#EXTINF:-1 group-title="[🎭|Hài]" tvg-logo="[FB_IMG_1717818046281.jgp]",*SCTV Hài Đắk Lắk* 
-*https://s1.edge.cdn.sctvonline.vn/cdn-cgi/edge/v2/e8.endpoint.cdn.sctvonline.vn/nginx.s5.edge.cdn.sctvonline.vn/hls/sctv1/index.m3u8*
+#EXTINF:-1,France 2  Live
+http://fast-fortress-4864.herokuapp.com/stream.streaming-hub.com:8080/simulcast/France_2/hls_v1/France_2-audio_AACL_fra_70000_315=70000-video=1404000.m3u8
